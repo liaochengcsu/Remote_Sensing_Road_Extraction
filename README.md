@@ -13,6 +13,11 @@
 [Massachusetts Roads Dataset:](https://www.cs.toronto.edu/~vmnih/data/) The road dataset consists of 1108 sets for training part, 49 for testingpart, and 14 for validation part. Download from [Baiduyun:](https://pan.baidu.com/s/1I-HBIdIXvSgnSqz5Ag0MQA) with extract code: utjr 
 
 
+
+[HUAWEI Roads Extraction Competition:](https://competition.huaweicloud.com/information/1000041322/introduction) The road dataset consists of 2 tiles for training part, 1 for testing part. Processed dataset could download from [Baiduyun:](https://pan.baidu.com/s/1kSSYsrO188YCPr2RcmUbow) with extract code: 3t5a 
+
+
+
 ### Test
 Run test.py
 ### Train
